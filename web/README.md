@@ -1,0 +1,3 @@
+This directory is a Simple Web Pages.
+
+I may write more things after...
