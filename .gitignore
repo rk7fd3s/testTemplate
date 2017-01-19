@@ -1,0 +1,8 @@
+/target/
+/doc/
+/.settings/
+.classpath
+.project
+/evidence/*
+!.gitkeep
+**/*_backup.xml
